@@ -2,38 +2,144 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "To construct a scale of 1.5 inches = 1 foot to show inches are long enough to measure up to 4 feet, then R.F. = ____",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "0.125",
+        "b": "0.120",
+        "c": "0.25",
+        "d": "0.5"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "0.125"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "In constructing a plain scale, where should the names of the units and sub-divisions be stated?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Above the scale",
+        "b": "Below the scale",
+        "c": "At the midpoint of the scale",
+        "d": "At both ends of the scale"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "b": "Below the scale"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In constructing a plain scale, where should the zero be placed?",
+      "answers": {
+        "a": "At the beginning of the scale",
+        "b": "At the end of the second main division",
+        "c": "Between the unit and its sub-divisions",
+        "d": "At the midpoint of the scale"
+      },
+      "explanations": {
+        "c": "Between the unit and its sub-divisions"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
+    },
+    {
+      "question": "In a vernier scale, what is the Least Count (LC) equal to?",
+      "answers": {
+        "a": "1 m.s.d. + 1 v.s.d.",
+        "b": "1 m.s.d. - 1 v.s.d.",
+        "c": "1 m.s.d. × 1 v.s.d.",
+        "d": "1 m.s.d. / 1 v.s.d."
+      },
+      "explanations": {
+        "b": "1 m.s.d. - 1 v.s.d."
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How many equal parts should a line of 15 cm be divided into when constructing a diagonal scale with an R.F. of 1/1?",
+      "answers": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "20"
+      },
+      "explanations": {
+        "c": "15"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "In constructing a vernier scale, if the main scale has 8 equal parts representing 2 meters, how many divisions should be there on the vernier scale?",
+      "answers": {
+        "a": "8",
+        "b": "10",
+        "c": "12",
+        "d": "16"
+      },
+      "explanations": {
+        "c": "12"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How is the forward reading vernier constructed along with the main scale?",
+      "answers": {
+        "a": "By subtracting 1 m.s.d. from 1 v.s.d.",
+        "b": "By adding 1 m.s.d. to 1 v.s.d.",
+        "c": "By dividing 1 m.s.d. by 1 v.s.d.",
+        "d": "By multiplying 1 m.s.d. by 1 v.s.d."
+      },
+      "explanations": {
+        "b": "By adding 1 m.s.d. to 1 v.s.d."
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "When constructing a diagonal scale, what does the term 'R.F. = 1/5' mean?",
+      "answers": {
+        "a": "The main scale is 5 times larger than the actual size",
+        "b": "The main scale is 1/5th of the actual size",
+        "c": "The main scale is 1/5th the length of the diagonal scale",
+        "d": "The diagonal scale is 5 times larger than the actual size"
+      },
+      "explanations": {
+        "b": "The main scale is 1/5th of the actual size"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "When constructing a scale, why is it important to round off the calculated length to the next higher whole number?",
+      "answers": {
+        "a": "To make the drawing more accurate",
+        "b": "To ensure the scale is long enough for measurements",
+        "c": "To avoid mistakes in the construction process",
+        "d": "To simplify the calculations"
+      },
+      "explanations": {
+        "b": "To ensure the scale is long enough for measurements"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "When constructing a scale of 1:2000 to measure 15 meters, what is the length of the scale?",
+      "answers": {
+        "a": "3 cm",
+        "b": "7.5 cm",
+        "c": "10 cm",
+        "d": "30 cm"
+      },
+      "explanations": {
+        "b": "7.5 cm"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
     }
   ]
 }
