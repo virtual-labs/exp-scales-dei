@@ -7,17 +7,15 @@ A scale can be described as the proportion between the real dimensions of an obj
 The scales generally used for general engineering drawings are shown in table below-
 
 
-# Scale Reference Table
+#### Scale Reference Table
 
-|-----------------|-----|-----|-----|
-| Reducing Scales | 1:2 | 1:5 | 1:10| 
-|                 | 1:20 | 1:50 | 1:100| 
-|                 | 1:200 | 1:500 | 1:1000| 
-|                 | 1:2000 | 1:5000 | 1:10000| 
-|-----------------|-----|-----|-----|
-| Enlarging Scales | 50:1 | 20:1 | 10:1 |
+| Reducing Scales | 1:2 | 1:5 | 1:10 |
+| ---------------- | :--- | --- | ---- |
+|                 | 1:20 | 1:50 | 1:100 | 
+|                 | 1:200 | 1:500 | 1:1000 | 
+|                 | 1:2000 | 1:5000 | 1:10000 | 
+| Enlarging Scales |  50:1 | 20:1 | 10:1 |
 |                 | 5:1 | 2:1 |     |
-|-----------------|-----|-----|-----|
 | Full Size Scales |    |     | 1:1 |
 
 
