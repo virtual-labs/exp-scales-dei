@@ -1,6 +1,9 @@
 /* EXPERIMENTS-CLASS FILE IS COMMON TO ALL THE EXPERIMENTS CLASSES STYLE  */
 
 /* TEXT  */
+body {
+    font-family: "Arial", sans-serif;
+}
 
 .step{
     display: inline-block;

@@ -5,6 +5,9 @@
 #instructions1-step3{
     visibility: visible;
 }
+body {
+    font-family: "Arial", sans-serif;
+}
 
 /* DropMenus  */
 
