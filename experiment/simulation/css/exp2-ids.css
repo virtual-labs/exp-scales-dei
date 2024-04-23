@@ -5,7 +5,9 @@
 #instructions1-step3{
   visibility: visible;
 }
-
+body {
+    font-family: "Arial", sans-serif;
+}
 /* DropMenus  */
 
 #dropMenu1-step3, #dropMenu2-step3, #dropMenu3-step3,  #dropMenu4-step3, #dropMenu5-step3, #dropMenu6-step3, #dropMenu7-step3, #dropMenu8-step3, #dropMenu9-step3, #dropMenu10-step3{
