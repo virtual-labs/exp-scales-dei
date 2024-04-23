@@ -1,4 +1,7 @@
 /* style the header container  */
+body {
+    font-family: "Arial", sans-serif;
+}
 
 nav {
     height: 75px;
