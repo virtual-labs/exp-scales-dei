@@ -1,0 +1,145 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "The ratio of the linear dimensions of element of the object as represented in a drawing the actual dimensions of the same element of the object itself is called _______.",
+      "answers": {
+        "a": "Diameter",
+        "b": "Measurement",
+        "c": "Scale",
+        "d": "Representative fraction"
+      },
+      "explanations": {
+        "c": "Scale"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "When the drawing is of the same size as that of the object, the scale used is _______.",
+      "answers": {
+        "a": "Vernier scale",
+        "b": "Full-size scale",
+        "c": "Diagonal Scale",
+        "d": "Half-size scale"
+      },
+      "explanations": {
+        "b": "Full-size scale"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does the term 'Enlarging Scale' refer to?",
+      "answers": {
+        "a": "Drawing smaller than the actual size",
+        "b": "Drawing larger than the actual size",
+        "c": "Drawing with graphical scale",
+        "d": "Drawing with representative fraction"
+      },
+      "explanations": {
+        "b": "Drawing larger than the actual size"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Where should we mention the R.F. of the scale?",
+      "answers": {
+        "a": "Above the scale",
+        "b": "Upper right corner of the sheet",
+        "c": "Below the scale",
+        "d": "As a center heading"
+      },
+      "explanations": {
+        "c": "Below the scale"
+      },
+      "correctAnswer": "c",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "How is the length of a scale calculated in the construction process?",
+      "answers": {
+        "a": "Length of the scale = R.F. / Maximum Length",
+        "b": "Length of the scale = R.F. × Maximum Length",
+        "c": "Length of the scale = Maximum Length / R.F.",
+        "d": "Length of the scale = R.F. - Maximum Length"
+      },
+      "explanations": {
+        "b": "Length of the scale = R.F. × Maximum Length"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "Drawings of buildings are drawn using ________",
+      "answers": {
+        "a": "Full-size scale",
+        "b": "Reducing scale",
+        "c": "Scale of chords",
+        "d": "Enlarging scale"
+      },
+      "explanations": {
+        "b": "Reducing Scale"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "For drawing small instruments, the R.F. would be _______",
+      "answers": {
+        "a": "Equal to one",
+        "b": "Less than one",
+        "c": "Greater than one",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "c": "Greater than one"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Expressing the relation between the dimension on the drawing and the actual dimension of the object is mentioned numerically in the style as 10 mm = 5 m etc. is referred to as-",
+      "answers": {
+        "a": "Engineering Scale",
+        "b": "Graphical Scale",
+        "c": "Representative Function",
+        "d": "Scale of chords"
+      },
+      "explanations": {
+        "a": "Engineering Scale"
+      },
+      "correctAnswer": "a",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "What does R.F. refer to?",
+      "answers": {
+        "a": "Representative Scale",
+        "b": "Representation Function",
+        "c": "Representative Function",
+        "d": "Represented Function"
+      },
+      "explanations": {
+        "c": "Representative Function"
+      },
+      "correctAnswer": "c",
+      "difficulty": "advanced"
+    },
+    {
+      "question": "Given the length of the scale = 1/14080 miles and the scale to be measured is 6 miles, then the R.F. = ________",
+      "answers": {
+        "a": "1/84440",
+        "b": "1/84480",
+        "c": "1/85674",
+        "d": "1/84453"
+      },
+      "explanations": {
+        "b": "1/84480"
+      },
+      "correctAnswer": "b",
+      "difficulty": "advanced"
+    }
+  ]
+}
