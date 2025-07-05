@@ -118,11 +118,11 @@
       "answers": {
         "a": "Representative Scale",
         "b": "Representation Function",
-        "c": "Representative Function",
+        "c": "Representative Fraction",
         "d": "Represented Function"
       },
       "explanations": {
-        "c": "Representative Function"
+        "c": "Representative Fraction"
       },
       "correctAnswer": "c",
       "difficulty": "advanced"

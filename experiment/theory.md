@@ -3,7 +3,7 @@
 Whether working on projects related to civil engineering, mechanical designs or electronic schematics, the ability to interpret and apply scales is a foundational skill. Scales ensure that drawings accurately represent real-world dimensions, providing a universal language for engineers to communicate design specifications effectively. 
 It is possible to produce drawings of small items that are the same size as the objects they depict. A drawing of 100 mm in length could represent a pen that is 100 mm long. Full-scale drawings are those that are drawn to the exact size of the things. For such drawings, standard full-size scales are employed.
 #### Scale
-A scale can be described as the proportion between the real dimensions of an object and its linear dimensions as shown in a drawing of the same object element.
+A scale is essentially the ratio of the linear dimensions of an element in a drawing to the actual dimensions of the same element in the real object.
 The scales generally used for general engineering drawings are shown in table below-
 
 
@@ -37,7 +37,7 @@ The scales used in practice are classified as under:
 4. Vernier scales
 5. Scale of chords
 
-#### Plane Scale
+### 1 Plain Scale
 A line that has been divided into an appropriate number of equal parts, or units, with the first unit being further divided into smaller parts, makes up a plain scale. A unit and its sub-division, or two units, are represented by plain scales.
 
 In every scale,
@@ -45,3 +45,111 @@ In every scale,
 2. From the zero mark, the units should be numbered to the right and its sub-divisions to the left. 
 3. The names of the units and the sub-divisions should be stated clearly below or at the respective ends. 
 4. The name of the scale (e.g. scale, 1 : 10) or its R.F. should be mentioned below the scale.
+
+## Scales Explained
+
+### 2. Diagonal Scales
+
+**Purpose**: To measure small subdivisions of a unit very accurately (such as 1/10th or 1/100th of a unit).
+
+**How it works**:  
+A main scale is drawn with equal divisions. Across these divisions, diagonals are drawn within rectangles to allow further subdivisions. This enables reading values to more decimal places by following the diagonals.
+
+**Example**: If you want to measure 1.63 cm, the value 1.6 cm is taken from the main scale, and 0.03 cm is read using the diagonal.
+
+---
+
+### 3. Comparative Scales
+
+**Purpose**: To compare two different units of measurement on the same drawing (e.g., kilometers and miles, or meters and feet).
+
+**How it works**:  
+Two parallel scales are drawn — one for each unit — starting from the same point. This allows direct comparison of corresponding values between the two units.
+
+**Example**: You can see how many miles correspond to 10 kilometers directly by looking at the comparative scale.
+
+---
+
+### 4. Vernier Scales
+
+**Purpose**: To measure values more precisely than the main scale allows (used in vernier calipers, micrometers, etc.).
+
+**How it works**:  
+A main scale is marked with standard divisions. A small, sliding vernier scale is attached, with its divisions slightly offset from the main scale. This shifting alignment allows the reading of fractions of a division.
+
+**Example**: If one main scale division = 1 mm and you want to read 1.76 mm, the vernier provides the additional precision for the 0.76 mm part.
+
+---
+
+### 5. Scale of Chords
+
+**Purpose**: To measure and construct angles using a compass when a protractor is not available.
+
+**How it works**:  
+A chord is a straight line connecting two points on a circle. The scale of chords uses the length of these chords to represent various angles. By setting a compass to the chord length for a desired angle, you can mark and draw that angle accurately.
+
+**Example**: To draw a 30° angle, set your compass to the chord length marked 30° on the scale of chords and transfer this length to your drawing.
+
+---
+
+##### Formulas for Scales
+
+---
+
+### 1️. Representative Fraction (R.F.)
+
+\[
+R.F. = \frac{\text{Length of drawing}}{\text{Actual length of object}}
+\]
+
+---
+
+### 2️. Diagonal Scales
+
+\[
+\text{Value of one small subdivision} = \frac{\text{Value of main division}}{n}
+\]
+
+where **n** = number of parts the diagonal is divided into.
+
+---
+
+### 3️. Comparative Scales
+
+\[
+\frac{\text{Length on 1st scale}}{\text{Actual unit of 1st scale}} = \frac{\text{Length on 2nd scale}}{\text{Actual unit of 2nd scale}}
+\]
+
+---
+
+### 4️. Vernier Scales (Least Count / Vernier Constant)
+
+\[
+\text{Least Count (LC)} = \text{1 MSD} - \text{1 VSD}
+\]
+
+where:  
+- **MSD** = Main Scale Division  
+- **VSD** = Vernier Scale Division
+
+Alternate form:
+
+\[
+\text{LC} = \frac{\text{Smallest division on main scale}}{\text{Number of divisions on Vernier scale}}
+\]
+
+---
+
+### 5️. Scale of Chords
+
+\[
+\text{Chord length} = 2 \times R \times \sin\left(\frac{\theta}{2}\right)
+\]
+
+where:  
+- **R** = Radius of the circle  
+- **θ** = Angle in degrees
+
+---
+
+

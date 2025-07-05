@@ -33,12 +33,12 @@
       "question": "In constructing a plain scale, where should the zero be placed?",
       "answers": {
         "a": "At the beginning of the scale",
-        "b": "At the end of the second main division",
+        "b": "At the end of the first main division",
         "c": "Between the unit and its sub-divisions",
         "d": "At the midpoint of the scale"
       },
       "explanations": {
-        "c": "Between the unit and its sub-divisions"
+        "b": "At the end of the first main division"
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -72,7 +72,7 @@
       "difficulty": "intermediate"
     },
     {
-      "question": "In constructing a vernier scale, if the main scale has 8 equal parts representing 2 meters, how many divisions should be there on the vernier scale?",
+      "question": "In a vernier scale construction, if 8 equal parts on the main scale represent a total length of 2 meters, then how many divisions should be made on the vernier scale to measure with higher accuracy? (Use Formula: 1 v.s.d. = 1 m.s.d. / n)",
       "answers": {
         "a": "8",
         "b": "10",
@@ -80,7 +80,7 @@
         "d": "16"
       },
       "explanations": {
-        "c": "12"
+        "d": "16"
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
