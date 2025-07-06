@@ -92,64 +92,50 @@ A chord is a straight line connecting two points on a circle. The scale of chord
 
 ---
 
-##### Formulas for Scales
+##### 📏 Formulas for Scales
 
 ---
 
 ### 1️. Representative Fraction (R.F.)
 
-\[
-R.F. = \frac{\text{Length of drawing}}{\text{Actual length of object}}
-\]
+R.F. = Length of drawing ÷ Actual length of object
 
 ---
 
 ### 2️. Diagonal Scales
 
-\[
-\text{Value of one small subdivision} = \frac{\text{Value of main division}}{n}
-\]
+Value of one small subdivision = Value of main division ÷ n
 
-where **n** = number of parts the diagonal is divided into.
+Where:  
+n = number of parts the diagonal is divided into
 
 ---
 
 ### 3️. Comparative Scales
 
-\[
-\frac{\text{Length on 1st scale}}{\text{Actual unit of 1st scale}} = \frac{\text{Length on 2nd scale}}{\text{Actual unit of 2nd scale}}
-\]
+Length on 1st scale ÷ Actual unit of 1st scale = Length on 2nd scale ÷ Actual unit of 2nd scale
 
 ---
 
 ### 4️. Vernier Scales (Least Count / Vernier Constant)
 
-\[
-\text{Least Count (LC)} = \text{1 MSD} - \text{1 VSD}
-\]
+Least Count (LC) = 1 MSD − 1 VSD
 
-where:  
-- **MSD** = Main Scale Division  
-- **VSD** = Vernier Scale Division
+Where:  
+- MSD = Main Scale Division  
+- VSD = Vernier Scale Division
 
-Alternate form:
-
-\[
-\text{LC} = \frac{\text{Smallest division on main scale}}{\text{Number of divisions on Vernier scale}}
-\]
+Alternate form:  
+LC = Smallest division on main scale ÷ Number of divisions on Vernier scale
 
 ---
 
 ### 5️. Scale of Chords
 
-\[
-\text{Chord length} = 2 \times R \times \sin\left(\frac{\theta}{2}\right)
-\]
+Chord length = 2 × R × sin(θ ÷ 2)
 
-where:  
-- **R** = Radius of the circle  
-- **θ** = Angle in degrees
+Where:  
+- R = Radius of the circle  
+- θ = Angle in degrees
 
 ---
-
-
