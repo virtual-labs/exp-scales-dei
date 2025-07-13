@@ -2,17 +2,15 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The ratio of the linear dimensions of element of the object as represented in a drawing the actual dimensions of the same element of the object itself is called _______.",
+      "question": "The ratio of the linear dimensions of element of the object as represented in a drawing to the actual dimensions of the same element of the object itself is called _______.",
       "answers": {
         "a": "Diameter",
         "b": "Measurement",
         "c": "Scale",
         "d": "Representative fraction"
       },
-      "explanations": {
-        "c": "Scale"
-      },
       "correctAnswer": "c",
+      "explanation": "Scale is the ratio of the drawing size to the actual object size.",
       "difficulty": "beginner"
     },
     {
@@ -23,10 +21,8 @@
         "c": "Diagonal Scale",
         "d": "Half-size scale"
       },
-      "explanations": {
-        "b": "Full-size scale"
-      },
       "correctAnswer": "b",
+      "explanation": "A full-size scale means 1:1 drawing size, equal to the real object.",
       "difficulty": "beginner"
     },
     {
@@ -37,10 +33,8 @@
         "c": "Drawing with graphical scale",
         "d": "Drawing with representative fraction"
       },
-      "explanations": {
-        "b": "Drawing larger than the actual size"
-      },
       "correctAnswer": "b",
+      "explanation": "Enlarging scale is used when the drawing is larger than the real object.",
       "difficulty": "beginner"
     },
     {
@@ -51,10 +45,8 @@
         "c": "Below the scale",
         "d": "As a center heading"
       },
-      "explanations": {
-        "c": "Below the scale"
-      },
       "correctAnswer": "c",
+      "explanation": "R.F. is conventionally written below the scale in engineering drawings.",
       "difficulty": "intermediate"
     },
     {
@@ -65,10 +57,8 @@
         "c": "Length of the scale = Maximum Length / R.F.",
         "d": "Length of the scale = R.F. - Maximum Length"
       },
-      "explanations": {
-        "b": "Length of the scale = R.F. × Maximum Length"
-      },
       "correctAnswer": "b",
+      "explanation": "Scale length = R.F. × actual max length to be measured.",
       "difficulty": "intermediate"
     },
     {
@@ -79,10 +69,8 @@
         "c": "Scale of chords",
         "d": "Enlarging scale"
       },
-      "explanations": {
-        "b": "Reducing Scale"
-      },
       "correctAnswer": "b",
+      "explanation": "Reducing scale is used when the real object is larger than the drawing.",
       "difficulty": "intermediate"
     },
     {
@@ -93,10 +81,8 @@
         "c": "Greater than one",
         "d": "None of the above"
       },
-      "explanations": {
-        "c": "Greater than one"
-      },
       "correctAnswer": "c",
+      "explanation": "For small parts, drawings are enlarged, hence R.F. > 1.",
       "difficulty": "advanced"
     },
     {
@@ -107,10 +93,8 @@
         "c": "Representative Function",
         "d": "Scale of chords"
       },
-      "explanations": {
-        "a": "Engineering Scale"
-      },
       "correctAnswer": "a",
+      "explanation": "Engineering scale expresses scale using numerical length ratios.",
       "difficulty": "advanced"
     },
     {
@@ -121,10 +105,8 @@
         "c": "Representative Fraction",
         "d": "Represented Function"
       },
-      "explanations": {
-        "c": "Representative Fraction"
-      },
       "correctAnswer": "c",
+      "explanation": "R.F. or Representative Fraction = Drawing length / Actual length.",
       "difficulty": "advanced"
     },
     {
@@ -135,10 +117,8 @@
         "c": "1/85674",
         "d": "1/84453"
       },
-      "explanations": {
-        "b": "1/84480"
-      },
       "correctAnswer": "b",
+      "explanation": "R.F. = Drawing length / Actual length = 1/14080 ÷ 6 = 1/84480.",
       "difficulty": "advanced"
     }
   ]

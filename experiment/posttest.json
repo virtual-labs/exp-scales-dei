@@ -9,10 +9,8 @@
         "c": "0.25",
         "d": "0.5"
       },
-      "explanations": {
-        "a": "0.125"
-      },
       "correctAnswer": "a",
+      "explanation": "R.F. = Drawing length / Actual length = 1.5 inches / 12 inches = 0.125",
       "difficulty": "beginner"
     },
     {
@@ -23,10 +21,8 @@
         "c": "At the midpoint of the scale",
         "d": "At both ends of the scale"
       },
-      "explanations": {
-        "b": "Below the scale"
-      },
       "correctAnswer": "b",
+      "explanation": "Unit names are written below the scale for clarity in engineering drawing standards.",
       "difficulty": "beginner"
     },
     {
@@ -37,10 +33,8 @@
         "c": "Between the unit and its sub-divisions",
         "d": "At the midpoint of the scale"
       },
-      "explanations": {
-        "b": "At the end of the first main division"
-      },
       "correctAnswer": "b",
+      "explanation": "In plain scale, zero is placed at the end of the first main division so sub-divisions extend to the left.",
       "difficulty": "beginner"
     },
     {
@@ -51,10 +45,8 @@
         "c": "1 m.s.d. × 1 v.s.d.",
         "d": "1 m.s.d. / 1 v.s.d."
       },
-      "explanations": {
-        "b": "1 m.s.d. - 1 v.s.d."
-      },
       "correctAnswer": "b",
+      "explanation": "LC = 1 main scale division - 1 vernier scale division.",
       "difficulty": "intermediate"
     },
     {
@@ -65,10 +57,8 @@
         "c": "15",
         "d": "20"
       },
-      "explanations": {
-        "c": "15"
-      },
       "correctAnswer": "c",
+      "explanation": "Since R.F. = 1/1 and actual length = 15 cm, divide into 15 equal parts to represent 15 units.",
       "difficulty": "intermediate"
     },
     {
@@ -79,10 +69,8 @@
         "c": "12",
         "d": "16"
       },
-      "explanations": {
-        "d": "16"
-      },
       "correctAnswer": "d",
+      "explanation": "To reduce each division, number of v.s.d. should be double the m.s.d. parts; here 8×2 = 16 divisions.",
       "difficulty": "intermediate"
     },
     {
@@ -93,10 +81,8 @@
         "c": "By dividing 1 m.s.d. by 1 v.s.d.",
         "d": "By multiplying 1 m.s.d. by 1 v.s.d."
       },
-      "explanations": {
-        "b": "By adding 1 m.s.d. to 1 v.s.d."
-      },
       "correctAnswer": "b",
+      "explanation": "Forward (direct) vernier: 1 v.s.d. = (n+1)/n × m.s.d., so 1 v.s.d. > 1 m.s.d.",
       "difficulty": "advanced"
     },
     {
@@ -107,10 +93,8 @@
         "c": "The main scale is 1/5th the length of the diagonal scale",
         "d": "The diagonal scale is 5 times larger than the actual size"
       },
-      "explanations": {
-        "b": "The main scale is 1/5th of the actual size"
-      },
       "correctAnswer": "b",
+      "explanation": "R.F. = Drawing length / Actual length = 1/5, means scale is 1/5th actual size.",
       "difficulty": "advanced"
     },
     {
@@ -121,10 +105,8 @@
         "c": "To avoid mistakes in the construction process",
         "d": "To simplify the calculations"
       },
-      "explanations": {
-        "b": "To ensure the scale is long enough for measurements"
-      },
       "correctAnswer": "b",
+      "explanation": "Rounding ensures the constructed scale covers full range of required measurements.",
       "difficulty": "advanced"
     },
     {
@@ -135,10 +117,8 @@
         "c": "10 cm",
         "d": "30 cm"
       },
-      "explanations": {
-        "b": "7.5 cm"
-      },
       "correctAnswer": "b",
+      "explanation": "Length = (R.F.) × actual length = (1/2000) × 1500 cm = 7.5 cm.",
       "difficulty": "advanced"
     }
   ]
