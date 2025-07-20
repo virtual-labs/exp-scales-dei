@@ -9,8 +9,10 @@
         "c": "0.25",
         "d": "0.5"
       },
+      "explanations": {
+        "a": "R.F. (Representative Fraction) = Drawing length / Actual length = 1.5 inches / 12 inches = 0.125. This fraction represents how the drawing size relates to the actual size of the object."
+      },
       "correctAnswer": "a",
-      "explanation": "R.F. = Drawing length / Actual length = 1.5 inches / 12 inches = 0.125",
       "difficulty": "beginner"
     },
     {
@@ -21,8 +23,10 @@
         "c": "At the midpoint of the scale",
         "d": "At both ends of the scale"
       },
+      "explanations": {
+        "b": "Unit names are written below the scale for clarity and standardization in engineering drawing practices. This placement ensures readability without interfering with the scale markings."
+      },
       "correctAnswer": "b",
-      "explanation": "Unit names are written below the scale for clarity in engineering drawing standards.",
       "difficulty": "beginner"
     },
     {
@@ -33,8 +37,10 @@
         "c": "Between the unit and its sub-divisions",
         "d": "At the midpoint of the scale"
       },
+      "explanations": {
+        "b": "In plain scale construction, zero is placed at the end of the first main division so that sub-divisions extend to the left. This allows for precise measurement of fractional parts."
+      },
       "correctAnswer": "b",
-      "explanation": "In plain scale, zero is placed at the end of the first main division so sub-divisions extend to the left.",
       "difficulty": "beginner"
     },
     {
@@ -45,8 +51,10 @@
         "c": "1 m.s.d. × 1 v.s.d.",
         "d": "1 m.s.d. / 1 v.s.d."
       },
+      "explanations": {
+        "b": "Least Count (LC) = 1 main scale division - 1 vernier scale division. This difference determines the smallest measurement that can be accurately read using the vernier scale."
+      },
       "correctAnswer": "b",
-      "explanation": "LC = 1 main scale division - 1 vernier scale division.",
       "difficulty": "intermediate"
     },
     {
@@ -57,8 +65,10 @@
         "c": "15",
         "d": "20"
       },
+      "explanations": {
+        "c": "Since R.F. = 1/1 (actual size) and the actual length = 15 cm, the line should be divided into 15 equal parts to represent 15 units accurately on the diagonal scale."
+      },
       "correctAnswer": "c",
-      "explanation": "Since R.F. = 1/1 and actual length = 15 cm, divide into 15 equal parts to represent 15 units.",
       "difficulty": "intermediate"
     },
     {
@@ -69,8 +79,10 @@
         "c": "12",
         "d": "16"
       },
+      "explanations": {
+        "d": "To achieve higher accuracy and reduce each division, the number of vernier scale divisions should typically be double the main scale parts. Here, 8 × 2 = 16 divisions provide better precision."
+      },
       "correctAnswer": "d",
-      "explanation": "To reduce each division, number of v.s.d. should be double the m.s.d. parts; here 8×2 = 16 divisions.",
       "difficulty": "intermediate"
     },
     {
@@ -81,8 +93,10 @@
         "c": "By dividing 1 m.s.d. by 1 v.s.d.",
         "d": "By multiplying 1 m.s.d. by 1 v.s.d."
       },
+      "explanations": {
+        "b": "Forward (direct) vernier is constructed using the formula: 1 v.s.d. = (n+1)/n × m.s.d., which means 1 v.s.d. > 1 m.s.d., effectively adding to the main scale division."
+      },
       "correctAnswer": "b",
-      "explanation": "Forward (direct) vernier: 1 v.s.d. = (n+1)/n × m.s.d., so 1 v.s.d. > 1 m.s.d.",
       "difficulty": "advanced"
     },
     {
@@ -93,8 +107,10 @@
         "c": "The main scale is 1/5th the length of the diagonal scale",
         "d": "The diagonal scale is 5 times larger than the actual size"
       },
+      "explanations": {
+        "b": "R.F. (Representative Fraction) = Drawing length / Actual length = 1/5 means that the scale drawing is 1/5th (or 20%) of the actual size of the object being represented."
+      },
       "correctAnswer": "b",
-      "explanation": "R.F. = Drawing length / Actual length = 1/5, means scale is 1/5th actual size.",
       "difficulty": "advanced"
     },
     {
@@ -105,8 +121,10 @@
         "c": "To avoid mistakes in the construction process",
         "d": "To simplify the calculations"
       },
+      "explanations": {
+        "b": "Rounding up to the next higher whole number ensures that the constructed scale covers the full range of required measurements without falling short, providing adequate length for all intended measurements."
+      },
       "correctAnswer": "b",
-      "explanation": "Rounding ensures the constructed scale covers full range of required measurements.",
       "difficulty": "advanced"
     },
     {
@@ -117,8 +135,10 @@
         "c": "10 cm",
         "d": "30 cm"
       },
+      "explanations": {
+        "b": "Scale length = (R.F.) × actual length = (1/2000) × 1500 cm = 0.75 cm per meter × 10 meters = 7.5 cm. The scale must be 7.5 cm long to represent 15 meters at 1:2000 scale."
+      },
       "correctAnswer": "b",
-      "explanation": "Length = (R.F.) × actual length = (1/2000) × 1500 cm = 7.5 cm.",
       "difficulty": "advanced"
     }
   ]

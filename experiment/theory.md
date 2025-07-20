@@ -46,7 +46,6 @@ In every scale,
 3. The names of the units and the sub-divisions should be stated clearly below or at the respective ends. 
 4. The name of the scale (e.g. scale, 1 : 10) or its R.F. should be mentioned below the scale.
 
-## Scales Explained
 
 ### 2. Diagonal Scales
 
@@ -92,7 +91,7 @@ A chord is a straight line connecting two points on a circle. The scale of chord
 
 ---
 
-##### 📏 Formulas for Scales
+#### Formulas for Scales
 
 ---
 

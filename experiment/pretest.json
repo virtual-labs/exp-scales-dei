@@ -9,8 +9,10 @@
         "c": "Scale",
         "d": "Representative fraction"
       },
+      "explanations": {
+        "c": "Scale is the fundamental concept in engineering drawing that defines the ratio between the drawing size and the actual object size. It determines how much larger or smaller the drawing is compared to the real object."
+      },
       "correctAnswer": "c",
-      "explanation": "Scale is the ratio of the drawing size to the actual object size.",
       "difficulty": "beginner"
     },
     {
@@ -21,8 +23,10 @@
         "c": "Diagonal Scale",
         "d": "Half-size scale"
       },
+      "explanations": {
+        "b": "A full-size scale means the drawing is created at a 1:1 ratio, where every dimension on the drawing equals the corresponding dimension on the actual object. This is used when the object size allows for practical drawing representation."
+      },
       "correctAnswer": "b",
-      "explanation": "A full-size scale means 1:1 drawing size, equal to the real object.",
       "difficulty": "beginner"
     },
     {
@@ -33,8 +37,10 @@
         "c": "Drawing with graphical scale",
         "d": "Drawing with representative fraction"
       },
+      "explanations": {
+        "b": "Enlarging scale is used when the drawing is larger than the real object, typically for small components like screws, electronic parts, or intricate mechanisms that need magnification for clear representation and dimensioning."
+      },
       "correctAnswer": "b",
-      "explanation": "Enlarging scale is used when the drawing is larger than the real object.",
       "difficulty": "beginner"
     },
     {
@@ -45,8 +51,10 @@
         "c": "Below the scale",
         "d": "As a center heading"
       },
+      "explanations": {
+        "c": "The Representative Fraction (R.F.) is conventionally written below the scale in engineering drawings for standardization and clarity. This placement ensures easy identification and reference without interfering with the scale markings."
+      },
       "correctAnswer": "c",
-      "explanation": "R.F. is conventionally written below the scale in engineering drawings.",
       "difficulty": "intermediate"
     },
     {
@@ -57,8 +65,10 @@
         "c": "Length of the scale = Maximum Length / R.F.",
         "d": "Length of the scale = R.F. - Maximum Length"
       },
+      "explanations": {
+        "b": "The scale length is calculated by multiplying the Representative Fraction (R.F.) by the maximum actual length to be measured. This ensures the constructed scale can accommodate all required measurements within the drawing space."
+      },
       "correctAnswer": "b",
-      "explanation": "Scale length = R.F. × actual max length to be measured.",
       "difficulty": "intermediate"
     },
     {
@@ -69,8 +79,10 @@
         "c": "Scale of chords",
         "d": "Enlarging scale"
       },
+      "explanations": {
+        "b": "Reducing scale is used for building drawings because buildings are much larger than practical drawing sizes. Common scales like 1:100, 1:200, or 1:500 are used to fit large structures onto manageable drawing sheets."
+      },
       "correctAnswer": "b",
-      "explanation": "Reducing scale is used when the real object is larger than the drawing.",
       "difficulty": "intermediate"
     },
     {
@@ -79,10 +91,12 @@
         "a": "Equal to one",
         "b": "Less than one",
         "c": "Greater than one",
-        "d": "None of the above"
+        "d": "Zero"
+      },
+      "explanations": {
+        "c": "For small instruments and components, the drawing is typically enlarged to show details clearly, making the R.F. greater than 1. Common enlarging scales include 2:1, 5:1, or 10:1 depending on the level of detail required."
       },
       "correctAnswer": "c",
-      "explanation": "For small parts, drawings are enlarged, hence R.F. > 1.",
       "difficulty": "advanced"
     },
     {
@@ -93,8 +107,10 @@
         "c": "Representative Function",
         "d": "Scale of chords"
       },
+      "explanations": {
+        "a": "Engineering scale expresses the scale relationship using numerical length ratios in the format of drawing unit = actual unit (e.g., 10 mm = 5 m). This method clearly shows the proportional relationship between drawing and reality."
+      },
       "correctAnswer": "a",
-      "explanation": "Engineering scale expresses scale using numerical length ratios.",
       "difficulty": "advanced"
     },
     {
@@ -105,8 +121,10 @@
         "c": "Representative Fraction",
         "d": "Represented Function"
       },
+      "explanations": {
+        "c": "R.F. stands for Representative Fraction, which is the mathematical expression of scale as a fraction: R.F. = Drawing length / Actual length. It provides a dimensionless ratio that defines the scale relationship."
+      },
       "correctAnswer": "c",
-      "explanation": "R.F. or Representative Fraction = Drawing length / Actual length.",
       "difficulty": "advanced"
     },
     {
@@ -117,8 +135,10 @@
         "c": "1/85674",
         "d": "1/84453"
       },
+      "explanations": {
+        "b": "R.F. = Drawing length / Actual length. Here, Drawing length = 1/14080 miles, Actual length = 6 miles. Therefore, R.F. = (1/14080) ÷ 6 = 1/(14080 × 6) = 1/84480."
+      },
       "correctAnswer": "b",
-      "explanation": "R.F. = Drawing length / Actual length = 1/14080 ÷ 6 = 1/84480.",
       "difficulty": "advanced"
     }
   ]
