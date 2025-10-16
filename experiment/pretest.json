@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "The ratio of the linear dimensions of element of the object as represented in a drawing the actual dimensions of the same element of the object itself is called _______.",
+      "question": "The ratio of the linear dimensions of element of the object as represented in a drawing to the actual dimensions of the same element of the object itself is called _______.",
       "answers": {
         "a": "Diameter",
         "b": "Measurement",
@@ -10,7 +10,7 @@
         "d": "Representative fraction"
       },
       "explanations": {
-        "c": "Scale"
+        "c": "Scale is the fundamental concept in engineering drawing that defines the ratio between the drawing size and the actual object size. It determines how much larger or smaller the drawing is compared to the real object."
       },
       "correctAnswer": "c",
       "difficulty": "beginner"
@@ -24,7 +24,7 @@
         "d": "Half-size scale"
       },
       "explanations": {
-        "b": "Full-size scale"
+        "b": "A full-size scale means the drawing is created at a 1:1 ratio, where every dimension on the drawing equals the corresponding dimension on the actual object. This is used when the object size allows for practical drawing representation."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -38,7 +38,7 @@
         "d": "Drawing with representative fraction"
       },
       "explanations": {
-        "b": "Drawing larger than the actual size"
+        "b": "Enlarging scale is used when the drawing is larger than the real object, typically for small components like screws, electronic parts, or intricate mechanisms that need magnification for clear representation and dimensioning."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -52,7 +52,7 @@
         "d": "As a center heading"
       },
       "explanations": {
-        "c": "Below the scale"
+        "c": "The Representative Fraction (R.F.) is conventionally written below the scale in engineering drawings for standardization and clarity. This placement ensures easy identification and reference without interfering with the scale markings."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -66,7 +66,7 @@
         "d": "Length of the scale = R.F. - Maximum Length"
       },
       "explanations": {
-        "b": "Length of the scale = R.F. × Maximum Length"
+        "b": "The scale length is calculated by multiplying the Representative Fraction (R.F.) by the maximum actual length to be measured. This ensures the constructed scale can accommodate all required measurements within the drawing space."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -80,7 +80,7 @@
         "d": "Enlarging scale"
       },
       "explanations": {
-        "b": "Reducing Scale"
+        "b": "Reducing scale is used for building drawings because buildings are much larger than practical drawing sizes. Common scales like 1:100, 1:200, or 1:500 are used to fit large structures onto manageable drawing sheets."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -91,10 +91,10 @@
         "a": "Equal to one",
         "b": "Less than one",
         "c": "Greater than one",
-        "d": "None of the above"
+        "d": "Zero"
       },
       "explanations": {
-        "c": "Greater than one"
+        "c": "For small instruments and components, the drawing is typically enlarged to show details clearly, making the R.F. greater than 1. Common enlarging scales include 2:1, 5:1, or 10:1 depending on the level of detail required."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -108,7 +108,7 @@
         "d": "Scale of chords"
       },
       "explanations": {
-        "a": "Engineering Scale"
+        "a": "Engineering scale expresses the scale relationship using numerical length ratios in the format of drawing unit = actual unit (e.g., 10 mm = 5 m). This method clearly shows the proportional relationship between drawing and reality."
       },
       "correctAnswer": "a",
       "difficulty": "advanced"
@@ -122,7 +122,7 @@
         "d": "Represented Function"
       },
       "explanations": {
-        "c": "Representative Fraction"
+        "c": "R.F. stands for Representative Fraction, which is the mathematical expression of scale as a fraction: R.F. = Drawing length / Actual length. It provides a dimensionless ratio that defines the scale relationship."
       },
       "correctAnswer": "c",
       "difficulty": "advanced"
@@ -136,7 +136,7 @@
         "d": "1/84453"
       },
       "explanations": {
-        "b": "1/84480"
+        "b": "R.F. = Drawing length / Actual length. Here, Drawing length = 1/14080 miles, Actual length = 6 miles. Therefore, R.F. = (1/14080) ÷ 6 = 1/(14080 × 6) = 1/84480."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"

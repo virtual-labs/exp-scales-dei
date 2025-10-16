@@ -10,7 +10,7 @@
         "d": "0.5"
       },
       "explanations": {
-        "a": "0.125"
+        "a": "R.F. (Representative Fraction) = Drawing length / Actual length = 1.5 inches / 12 inches = 0.125. This fraction represents how the drawing size relates to the actual size of the object."
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
@@ -24,7 +24,7 @@
         "d": "At both ends of the scale"
       },
       "explanations": {
-        "b": "Below the scale"
+        "b": "Unit names are written below the scale for clarity and standardization in engineering drawing practices. This placement ensures readability without interfering with the scale markings."
       },
       "correctAnswer": "b",
       "difficulty": "beginner"
@@ -38,9 +38,9 @@
         "d": "At the midpoint of the scale"
       },
       "explanations": {
-        "b": "At the end of the first main division"
+        "b": "In plain scale construction, zero is placed at the end of the first main division so that sub-divisions extend to the left. This allows for precise measurement of fractional parts."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
       "difficulty": "beginner"
     },
     {
@@ -52,7 +52,7 @@
         "d": "1 m.s.d. / 1 v.s.d."
       },
       "explanations": {
-        "b": "1 m.s.d. - 1 v.s.d."
+        "b": "Least Count (LC) = 1 main scale division - 1 vernier scale division. This difference determines the smallest measurement that can be accurately read using the vernier scale."
       },
       "correctAnswer": "b",
       "difficulty": "intermediate"
@@ -66,7 +66,7 @@
         "d": "20"
       },
       "explanations": {
-        "c": "15"
+        "c": "Since R.F. = 1/1 (actual size) and the actual length = 15 cm, the line should be divided into 15 equal parts to represent 15 units accurately on the diagonal scale."
       },
       "correctAnswer": "c",
       "difficulty": "intermediate"
@@ -80,9 +80,9 @@
         "d": "16"
       },
       "explanations": {
-        "d": "16"
+        "d": "To achieve higher accuracy and reduce each division, the number of vernier scale divisions should typically be double the main scale parts. Here, 8 × 2 = 16 divisions provide better precision."
       },
-      "correctAnswer": "c",
+      "correctAnswer": "d",
       "difficulty": "intermediate"
     },
     {
@@ -94,7 +94,7 @@
         "d": "By multiplying 1 m.s.d. by 1 v.s.d."
       },
       "explanations": {
-        "b": "By adding 1 m.s.d. to 1 v.s.d."
+        "b": "Forward (direct) vernier is constructed using the formula: 1 v.s.d. = (n+1)/n × m.s.d., which means 1 v.s.d. > 1 m.s.d., effectively adding to the main scale division."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -108,7 +108,7 @@
         "d": "The diagonal scale is 5 times larger than the actual size"
       },
       "explanations": {
-        "b": "The main scale is 1/5th of the actual size"
+        "b": "R.F. (Representative Fraction) = Drawing length / Actual length = 1/5 means that the scale drawing is 1/5th (or 20%) of the actual size of the object being represented."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -122,7 +122,7 @@
         "d": "To simplify the calculations"
       },
       "explanations": {
-        "b": "To ensure the scale is long enough for measurements"
+        "b": "Rounding up to the next higher whole number ensures that the constructed scale covers the full range of required measurements without falling short, providing adequate length for all intended measurements."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
@@ -136,7 +136,7 @@
         "d": "30 cm"
       },
       "explanations": {
-        "b": "7.5 cm"
+        "b": "Scale length = (R.F.) × actual length = (1/2000) × 1500 cm = 0.75 cm per meter × 10 meters = 7.5 cm. The scale must be 7.5 cm long to represent 15 meters at 1:2000 scale."
       },
       "correctAnswer": "b",
       "difficulty": "advanced"
